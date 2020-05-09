@@ -1,4 +1,4 @@
-# Programming with Python
+# Matt Vilhauer's Custom Programming with Python course.
 
 [![GitHub release][shields_release]][swc_py_releases]
 [![Create a Slack Account with us][create_slack_svg]][slack_heroku_invite]
